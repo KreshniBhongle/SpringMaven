@@ -8,4 +8,12 @@ public class Sum {
 		return c;
 		
 	}
+	
+	public int Test(int a, int b) {
+		int c=a-b;
+		System.out.println(c);
+		return c;
+		
+	}
+	
 }
