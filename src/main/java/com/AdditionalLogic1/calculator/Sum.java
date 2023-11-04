@@ -16,4 +16,12 @@ public class Sum {
 		
 	}
 	
+	//imp work
+	public int Div(int a, int b) {
+		int c=a/b;
+		System.out.println(c);
+		return c;
+		
+	}
+	
 }
